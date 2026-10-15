@@ -1,0 +1,11 @@
+Ramuzu IPTV Player - Linux installation
+
+From the folder that contains install.sh:
+
+    bash install.sh --run --desktop
+
+--run      starts the app when the installation finishes
+--desktop  adds "Ramuzu IPTV Player" to your applications menu
+
+The installer only uses the files in this folder; it does not download the
+app from the internet. Afterwards you can start it with ./run_ramuzu.sh
